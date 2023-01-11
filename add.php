@@ -15,7 +15,7 @@
                 <td><input type="text" name="name"></td>
             </tr>
             <tr>
-                <td>Email</td>
+                <td>Alamat Email</td>
                 <td><input type="text" name="email"></td>
             </tr>
             <tr>
