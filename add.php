@@ -19,7 +19,7 @@
                 <td><input type="text" name="email"></td>
             </tr>
             <tr>
-                <td>Mobile</td>
+                <td>No.hp</td>
                 <td><input type="text" name="mobile"></td>
             </tr>
             <tr>
